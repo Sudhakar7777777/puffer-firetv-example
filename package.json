@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "serve -p 1111"
+    "start": "serve -p 1000"
   },
   "repository": {
     "type": "git",
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/kidGodzilla/puffer-firetv-example#readme",
   "dependencies": {
-    "serve": "^11.1.0"
+    "serve": "^13.0.2"
   }
 }
